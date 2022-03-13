@@ -1,16 +1,16 @@
-### Hi there 👋
+### whoami
 
-<!--
-**dwendt/dwendt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi! My repositories on GitHub are generally related to:
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🐞 bughunting
+
+🪓 random patches to software I use
+
+🙈 a few old gamehacking repos
+
+Nothing too interesting or representative of what I do professionally :) 
+
+Hopefully I've written something interesting on my [blog](http://a-zA-Z0-9.net) and that's how you got here!
+
+Everything on this Github account is intended to be ***personal*** and ***separate*** from my dayjob, worked on at home on personal hardware, and avoiding any conflict of interest. If I write that in advance it means the lawyers can't bother me, right? 
